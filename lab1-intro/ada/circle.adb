@@ -8,7 +8,7 @@ use Text_IO;
 procedure Circle is
 
   size : Integer;
-
+-- comment
   procedure SetSize is
     last : Integer;
   begin
